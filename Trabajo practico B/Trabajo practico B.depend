@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1726429293 source:c:\users\aldan\onedrive\escritorio\uni\orga\trabajo practico b\primeros n numeros random.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1726428700 source:c:\users\aldan\onedrive\escritorio\uni\orga\trabajo practico b\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1726432343 source:c:\users\aldan\onedrive\escritorio\uni\orga\trabajo practico b\ordenar los primeros n elementos.c
+	<stdio.h>
+	<stdlib.h>
+
