@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1726523490 source:c:\users\aldana\desktop\orga\6-a\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1726525298 source:c:\users\aldana\desktop\orga\6\main.c
+	<stdio.h>
+	<stdlib.h>
+
